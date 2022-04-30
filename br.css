@@ -1,0 +1,42 @@
+*{
+    margin:0 ;
+    padding:0;
+    box-sizing: border-box;
+  
+    
+   
+}
+#br-center{
+    display: contents;
+   
+
+}
+.br-line{
+    display:flex;
+    font-size: medium;
+    color: bisque;
+}
+#dist{
+    margin-left: 60%;
+}
+#brname{
+    font-size:larger;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.hding{
+    text-align: center;
+}
+#foot{
+    margin-top: 5%;
+}
+.welcome{
+color: aqua;
+font-family: 'Times New Roman', Times, serif;
+padding: 10px;
+}
+img
+{
+    height: 450px;
+    width:100%;
+}
